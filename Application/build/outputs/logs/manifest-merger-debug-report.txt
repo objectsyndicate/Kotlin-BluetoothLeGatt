@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+	package
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:35:22-78
+application
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:5-50:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:18-50
+	android:icon
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:40:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:45:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:48:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:9-77
+	android:enabled
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:53-75
+	android:name
+		ADDED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:18-52
+uses-sdk
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/82eee26ddb677394e20ad413ca34e8b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4b9b4e0eb19d90a2e64868a2d7ae75f0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/75712f8725819e01c46d53ba03fb448d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd5e871f6a6b56d9c40bf87e4626b016/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5a6036dc2487a3ea6fe377c8875d3ec8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6cbc98ceb6169fab9173cd26e8b7c0de/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8901f615c8357ed7e8074c3e82ac2028/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/0e64f72396c8e7d286a387e66742b4cb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1e56ec203b40435153185deacd7c08ea/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/ec11dd557e8059f62531ac79f51abbed/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /home/d3cline/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/2cc21af96ba4d4216d83859da6e6f3d2/AndroidManifest.xml:26:9-47

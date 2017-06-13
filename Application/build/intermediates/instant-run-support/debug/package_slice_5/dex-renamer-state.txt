@@ -1,0 +1,4 @@
+#Tue Jun 13 14:17:19 MDT 2017
+base.0=/home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dexMerger/debug/5
+renamed.0=classes.dex
+file.0=/home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dexMerger/debug/5/classes.dex
