@@ -118,7 +118,7 @@ class DeviceControlActivity : Activity() {
                 // it first so it doesn't update the data field on the user interface.
                 if (mNotifyCharacteristic != null) {
                     mBluetoothLeService!!.setCharacteristicNotification(
-                            mNotifyCharacteristic, false)
+                            mNotifyCharacteristic!!, false)
                     mNotifyCharacteristic = null
                 }
                 mBluetoothLeService!!.readCharacteristic(characteristic)
@@ -239,6 +239,7 @@ class DeviceControlActivity : Activity() {
         for (gattService in gattServices) {
             val currentServiceData = HashMap<String, String>()
             uuid = gattService.uuid.toString()
+            println(uuid)
             currentServiceData.put(
                     LIST_NAME, SampleGattAttributes.lookup(uuid, unknownServiceString))
             currentServiceData.put(LIST_UUID, uuid)
@@ -253,6 +254,9 @@ class DeviceControlActivity : Activity() {
                 charas.add(gattCharacteristic)
                 val currentCharaData = HashMap<String, String>()
                 uuid = gattCharacteristic.uuid.toString()
+                println(uuid)
+                println(currentCharaData)
+
                 currentCharaData.put(
                         LIST_NAME, SampleGattAttributes.lookup(uuid, unknownCharaString))
                 currentCharaData.put(LIST_UUID, uuid)

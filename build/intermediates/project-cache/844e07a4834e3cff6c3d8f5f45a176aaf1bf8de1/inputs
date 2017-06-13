@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/d3cline/AndroidStudioProjects/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=b613cd812092a15e1a9321736732a5a9c7908bb6
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
