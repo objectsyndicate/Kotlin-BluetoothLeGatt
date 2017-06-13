@@ -6,7 +6,7 @@ Intro
 -----
 This is a Kotlin conversion/fork of [Android BluetootLeGatt](https://github.com/googlesamples/android-BluetoothLeGatt).
 
-This was written for the ioTank101, which is project for the Hackster.io
+This was written for the ioTank101, which is a project for the Hackster.io
 
 [2017 Co-Making the Future competition](https://www.hackster.io/contests/2017chinausyoungmakercompetition ).
 
