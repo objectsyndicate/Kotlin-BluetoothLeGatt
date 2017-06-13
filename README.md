@@ -10,9 +10,9 @@ This was written for the ioTank101, which is project for the Hackster.io
 
 [2017 Co-Making the Future competition](https://www.hackster.io/contests/2017chinausyoungmakercompetition ).
 
-So far the DeviceControlActivity is converted to kotlin, making IoT development easy,
+Kotlin BLE makes IoT development easy,
 
-and the project builds in Android Studio 3.0.
+project builds in Android Studio 3.0.
 
 
 License
