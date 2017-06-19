@@ -6,7 +6,7 @@ Intro
 -----
 This is a Kotlin conversion/fork/port of [Android BluetootLeGatt](https://github.com/googlesamples/android-BluetoothLeGatt).
 
-The code was ported so I could write the ioTank101 BLE app, which is a project for the Hackster.io [2017 Co-Making the Future competition](https://www.hackster.io/contests/2017chinausyoungmakercompetition ). The code is standalone however, and as close to the origional Android BluetoothLeGatt project as possible. 
+The code was ported so I could write the ioTank101 BLE app, which is a project for the Hackster.io [2017 Co-Making the Future competition](https://www.hackster.io/contests/2017chinausyoungmakercompetition ). The code is standalone however, and as close to the origional Android BluetoothLeGatt project as possible. If you are looking for a 'kotlin version of Android BLE' this is it. 
 
 Kotlin BLE makes IoT development easy.
 
